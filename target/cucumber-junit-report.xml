@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?><testsuite failures="0" name="cucumber.runtime.formatter.JUnitFormatter" skipped="0" tests="1" time="30.899085">
+<testcase classname="Payment methods on Panasonic" name="Buying product with Credit Card" time="30.899085">
+<system-out><![CDATA[Given I go to "QA-URL" on "Mozilla".........................................passed
+And I enter in "HomePage_searchField" as "DMC-G7HK".........................passed
+And I click on "HomePage_searchButton"......................................passed
+Then "ProductPage_productID" displayed on page should be "DMC-G7HK".........passed
+]]></system-out>
+</testcase>
+</testsuite>
